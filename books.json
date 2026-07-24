@@ -1,10 +1,58 @@
 [
   {
-    "isbn": "9784000000000",
-    "amazonUrl": "https://www.amazon.co.jp/dp/..."
+    "isbn": "9784087452068",
+    "amazonUrl": "https://amzn.asia/d/0aLHloBb"
   },
   {
-    "isbn": "9784101000000",
-    "amazonUrl": "https://www.amazon.co.jp/dp/..."
+    "isbn": "9784062069397",
+    "amazonUrl": "https://amzn.asia/d/0i5F9SMl"
+  },
+  {
+    "isbn": "9784408559766",
+    "amazonUrl": "https://amzn.asia/d/0hvQ9ENe"
+  },
+  {
+    "isbn": "9784396335212",
+    "amazonUrl": "https://amzn.asia/d/02CDCGfX"
+  },
+  {
+    "isbn": "9784396332686",
+    "amazonUrl": "https://amzn.asia/d/0fO0hN5O"
+  },
+  {
+    "isbn": "9784048741057",
+    "amazonUrl": "https://amzn.asia/d/05Jhp2S7"
+  },
+  {
+    "isbn": "9784167914004",
+    "amazonUrl": "https://amzn.asia/d/0dRHNDWC"
+  },
+  {
+    "isbn": "9784041006429",
+    "amazonUrl": "https://amzn.asia/d/047oCMq8"
+  },
+  {
+    "isbn": "9784101027418",
+    "amazonUrl": "https://amzn.asia/d/04j23KHc"
+  },
+  {
+    "isbn": "9784150123093",
+    "amazonUrl": "https://amzn.asia/d/0bz2jxCD"
+  },
+  {
+    "isbn": "9784093866453",
+    "amazonUrl": "https://amzn.asia/d/0fE1ztg0"
+  },
+  {
+    "isbn": "978-4087453898",
+    "amazonUrl": "https://amzn.asia/d/09Lmw0T9"
+  },
+  {
+    "isbn": "9784488464011",
+    "amazonUrl": "https://amzn.asia/d/026CBBfw"
+  },
+  {
+    "isbn": "9784167923372",
+    "amazonUrl": "https://amzn.asia/d/07lhM3ou"
   }
 ]
